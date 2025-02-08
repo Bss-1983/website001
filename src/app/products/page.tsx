@@ -13,7 +13,7 @@ interface Iproducts {
 
 }
 
-let product: Iproducts[] = [
+const product: Iproducts[] = [
     {
         title: "T-SHIRT WITH TAPE DETAILS",// product1
         price: "$120",
@@ -45,7 +45,7 @@ let product: Iproducts[] = [
 ];
 
 
-let star = [<FaStar />, <FaStar />, <FaStar />, <FaStar />, <FaStar />]
+const star = [<FaStar />, <FaStar />, <FaStar />, <FaStar />, <FaStar />]
 
 
 export default function Product() {
