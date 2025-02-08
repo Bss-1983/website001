@@ -44,35 +44,35 @@ const product: Iproducts[] = [
         title: "T-SHIRT WITH TAPE DETAILS", // product4
         price: "$130",
         oldprice: "$160",
-        id: 4,
+        id: 5,
         imageurl: "/product4.png"
     },
     {
         title: "T-SHIRT WITH TAPE DETAILS", // product4
         price: "$130",
         oldprice: "$160",
-        id: 4,
+        id: 6,
         imageurl: "/product4.png"
     },
     {
         title: "T-SHIRT WITH TAPE DETAILS", // product4
         price: "$130",
         oldprice: "$160",
-        id: 4,
+        id: 7,
         imageurl: "/product4.png"
     },
     {
         title: "T-SHIRT WITH TAPE DETAILS", // product4
         price: "$130",
         oldprice: "$160",
-        id: 4,
+        id: 8,
         imageurl: "/product4.png"
     },
     {
         title: "T-SHIRT WITH TAPE DETAILS", // product4
         price: "$130",
         oldprice: "$160",
-        id: 4,
+        id: 9,
         imageurl: "/product4.png"
     },
 
