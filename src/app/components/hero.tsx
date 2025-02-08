@@ -11,7 +11,7 @@ export default function Hero() {
                 </h1>
                 <p className="md:mt-4 text-sm sm:text-base md:text-lg text-[#00000089] text-center md:text-left">
                     <span className="text-[13.5px] ">
-                        Browse through our diverse range of meticulously crafted garments, designed to bring out your individuality and cater to your sense of style.
+                        Browse through our diverse range of meticulously crafted garments with desigin , designed to bring out your individuality and cater to your sense of style.
                     </span>
                 </p>
                 <div className="flex justify-center md:justify-start">
