@@ -1,7 +1,7 @@
 import { FaInstagram } from "react-icons/fa";
 
 import { FaFacebook, FaGithub, FaTwitter } from "react-icons/fa6";
-import { Images } from "lucide-react";
+
 import Image from "next/image";
 
 export default function Footer() {

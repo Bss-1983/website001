@@ -6,9 +6,9 @@ import { useParams } from "next/navigation";
 import { Button } from "@/components/ui/button"
 import { Check, Minus, Plus } from "lucide-react";
 import Allreview from "@/components/allreview";
-import Offers from "@/app/components/offer";
+
 import Similar from "@/components/similarproduct";
-import { Breadcrumb } from "@/components/ui/breadcrumb";
+
 import { BreadcrumbDemo } from "@/components/breadcrum";
 
 interface Iproducts {

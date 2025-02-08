@@ -2,7 +2,7 @@ import Link from "next/link";
 import { HiOutlineSearch } from "react-icons/hi";
 import { BsCart } from "react-icons/bs";
 import { RiAccountCircleLine } from "react-icons/ri";
-// import { RiArrowDropDownLine } from "react-icons/ri";
+
 import { SheetSide } from "./sheet";
 import { NavigationMenuDemo } from "./navigation";
 

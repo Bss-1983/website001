@@ -3,7 +3,7 @@ import { BreadcrumbDemo } from "@/components/breadcrum";
 import { CheckboxDemo } from "@/components/checkbox";
 import { Dressstyle } from "@/components/dressstyle";
 import Casualshirt from "@/components/shirt";
-import Shirt from "@/components/shirt";
+
 import Size from "@/components/size";
 import { SliderDemo } from "@/components/slider";
 
