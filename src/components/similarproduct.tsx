@@ -14,7 +14,7 @@ interface Iproducts {
 
 }
 
-let product: Iproducts[] = [
+const product: Iproducts[] = [
     {
         title: "Polo with Contrast Trims",// product1
         price: "$212",

@@ -23,8 +23,7 @@ interface Iproducts {
   img3: string,
   img4:string
 }
-
-let product: Iproducts[] = [
+const product: Iproducts[] = [
   {
     title: "T-SHIRT WITH TAPE DETAILS",
     price: "$120",
@@ -59,7 +58,7 @@ let product: Iproducts[] = [
 },
 ];
 
-let star = [<FaStar />, <FaStar />, <FaStar />, <FaStar />, <FaStar />]
+const star = [<FaStar />, <FaStar />, <FaStar />, <FaStar />, <FaStar />]
 
 export default function Productdetail() {
   const params = useParams();
